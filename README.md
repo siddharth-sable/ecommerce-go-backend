@@ -3,7 +3,7 @@
 **Project Structure**
 -----------------
 <img width="201" alt="image" src="https://github.com/siddharth-sable/ecommerce-go-backend/assets/66620788/5885c390-795c-453d-a830-682544c5d21a">
------------------
+
 
 
 ```bash
