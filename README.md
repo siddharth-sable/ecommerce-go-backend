@@ -1,8 +1,30 @@
 **Ecommerce With Go Backend**
 
 **Project Structure**
------------------
-<img width="201" alt="image" src="https://github.com/siddharth-sable/ecommerce-go-backend/assets/66620788/5885c390-795c-453d-a830-682544c5d21a">
+```
+.
+├── controllers
+│   ├── address.go
+│   ├── cart.go
+│   └── controllers.go
+├── database
+│   ├── cart.go
+│   └── database-setup.go
+├── docker-compose.yml
+├── go.mod
+├── go.sum
+├── main.go
+├── middleware
+│   └── middleware.go
+├── models
+│   └── models.go
+├── routes
+│   └── routes.go
+└── tokens
+    └── token-gen.go
+
+6 directories, 13 files
+```
 
 
 
